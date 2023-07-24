@@ -23,5 +23,5 @@
 - [ ] Tasks
 
 ## UI Components
-- [ ] FilePicker
-- [ ] SaveDialog
+- [x] FilePicker
+- [x] SaveDialog
