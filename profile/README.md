@@ -15,7 +15,6 @@
 
 ## Interface
 - [x] LoginPage
-- [ ] Dashboard
 - [ ] Settings
 
 ## Apps
