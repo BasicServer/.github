@@ -19,8 +19,7 @@
 - [ ] Settings
 
 ## Apps
-- [ ] FileManager: Browse and edit files
-- [ ] Tasks
+- [x] FileManager: Browse and edit files
 
 ## UI Components
 - [x] FilePicker
