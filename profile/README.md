@@ -15,7 +15,7 @@
 
 ## Interface
 - [x] LoginPage
-- [x] SignupPage
+- [ ] SignupPage
 - [ ] Settings
 
 ## Apps
